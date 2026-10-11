@@ -1,0 +1,33 @@
+PREMIUM PAYROLL RECONCILIATION WEBSITE
+
+This version removes all "portfolio" wording.
+
+Included:
+- Premium dark gradient theme
+- Payroll reconciliation animation
+- Detailed brief
+- Feature cards
+- Three-step workflow
+- Fictional demo file downloads
+- Live Streamlit app button
+- Scroll-in animations
+- Mobile-friendly layout
+
+OPEN LOCALLY
+1. Extract the ZIP.
+2. Keep all files together.
+3. Double-click index.html.
+
+PUBLISH WITH GITHUB PAGES
+1. Create a new public GitHub repository, e.g. payroll-reconciliation-website
+2. Upload:
+   index.html
+   favicon.svg
+   expected_payroll_demo.xlsx
+   processed_payroll_demo.xlsx
+3. Commit changes.
+4. Settings → Pages.
+5. Source: Deploy from a branch.
+6. Branch: main.
+7. Folder: /(root).
+8. Save.
